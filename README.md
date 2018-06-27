@@ -30,3 +30,5 @@ Unity脚本创建扩展，可以模板创建C#脚本一样创建其它扩展名�
 ```
 
 ## 下载插件包
+
+点击[下载](https://github.com/felixweecn/Unity_CreateScriptExtension/releases)
